@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503877904741",
+    "project_id": "phantuananh14-b5e93",
+    "storage_bucket": "phantuananh14-b5e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503877904741:android:9dfb8ad9af176d76f4198c",
+        "android_client_info": {
+          "package_name": "com.example.phantuananh14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503877904741-krjiuuroljpbhc8kg43ab67vo9np1lsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmTMSG2MWWK1Ok7NL2wg7F69vANlqwQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503877904741-krjiuuroljpbhc8kg43ab67vo9np1lsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

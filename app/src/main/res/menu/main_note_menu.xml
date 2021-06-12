@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/add_note"
+        android:title="Ghi chu"
+        />
+
+    <item android:id="@+id/add_list"
+        android:title="Danh muc"
+        />
+
+    <item android:id="@+id/add_folder"
+        android:title="Thu muc"
+        />
+</menu>
